@@ -1,0 +1,6 @@
+name = "marc_shen_workers_app"
+type = "javascript"
+account_id = "8d10eec0ab47bb983e44508754da76ec"
+workers_dev = true
+route = ""
+zone_id = ""
